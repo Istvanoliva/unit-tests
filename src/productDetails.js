@@ -38,5 +38,8 @@ const productDetails = (firstProduct, secondProduct) => [
     },
   },
 ];
-
+// console.log(productDetails);
+// console.log(typeof productDetails);
+console.log(productDetails('Máscara', 'Detergente'));
+// console.log(productDetails('Máscara', 'Detergente').length);
 module.exports = productDetails;
