@@ -15,9 +15,6 @@ Você implementará várias funções para atender aos requisitos propostos e/ou
   - [8. Implemente a função `myCounter`](#8-implemente-a-função-mycounter)
   - [9. Implemente os casos de teste para a função `getCharacter`](#9-implemente-os-casos-de-teste-para-a-função-getcharacter)
   - [10. Implemente a função `createMenu`, bem como seus casos de teste](#10-implemente-a-função-createmenu-bem-como-seus-casos-de-teste)
-- [Depois de terminar o desenvolvimento (opcional)](#depois-de-terminar-o-desenvolvimento-opcional)
-- [Revisando um pull request](#revisando-um-pull-request)
-- [Avisos finais](#avisos-finais)
 
 ---
 
